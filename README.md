@@ -13,7 +13,7 @@ DAO Mall for Pi is a decentralized application (DApp) built on the Raspberry Pi 
 ## Getting Started
 Follow these steps to set up DAO Mall for Pi on your Raspberry Pi:
 
-1. Clone the repository: `git clone https://github.com/your-username/dao-mall-for-pi.git`
+1. Clone the repository: `git clone https://github.com/KOSASIH/dao-mall-for-pi.git`
 2. Install dependencies: `npm install`
 3. Configure settings: Update the necessary configurations in `config.js`.
 4. Run the application: `npm start`
@@ -32,9 +32,9 @@ We welcome contributions to improve DAO Mall for Pi. Please follow these guideli
 5. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the PIOS License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact us at [support@pinet.com](mailto:support@pinet.com).
 
 Happy decentralized shopping with DAO Mall for Pi!
