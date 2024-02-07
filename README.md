@@ -35,6 +35,6 @@ We welcome contributions to improve DAO Mall for Pi. Please follow these guideli
 This project is licensed under the PIOS License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at [support@pinet.com](mailto:support@daomall.com).
+If you have any questions or suggestions, feel free to contact us at [support@daomall.com](mailto:support@daomall.com).
 
 Happy decentralized shopping with DAO Mall for Pi!
