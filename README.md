@@ -1,4 +1,4 @@
-[![DeepSource](https://app.deepsource.com/gh/KOSASIH/dao-mall-for-pi.svg/?label=code+coverage&show_trend=true&token=mCKiiDhu3pvPBDx18OdZe4ZN)](https://app.deepsource.com/gh/KOSASIH/dao-mall-for-pi/)
+[![DeepSource](https://app.deepsource.com/gh/KOSASIH/dao-mall-for-pi.svg/?label=active+issues&show_trend=true&token=mCKiiDhu3pvPBDx18OdZe4ZN)](https://app.deepsource.com/gh/KOSASIH/dao-mall-for-pi/)
 
 # DAO Mall for Pi
 
