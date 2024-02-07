@@ -1,4 +1,5 @@
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/dao-mall-for-pi.svg/?label=active+issues&show_trend=true&token=mCKiiDhu3pvPBDx18OdZe4ZN)](https://app.deepsource.com/gh/KOSASIH/dao-mall-for-pi/)
+[![CI](https://github.com/KOSASIH/dao-mall-for-pi/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/dao-mall-for-pi/actions/workflows/blank.yml)
 
 # DAO Mall for Pi
 
