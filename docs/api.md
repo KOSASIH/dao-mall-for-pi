@@ -74,11 +74,13 @@ Cancels a specific order.
 GET /products HTTP/1.1
 Host: dao-mall-for-pi.com
 ```
+
 Response
+
 ```
 1. HTTP/1.1 200 OK
 2. Content-Type: application/json
-3. 
+3.
 4. [
 5.  {
 6.   "id": 1,
@@ -96,8 +98,10 @@ Response
 18.  }
 19. ]
 ```
+
 POST /products
 Request
+
 ```
 POST /products HTTP/1.1
 Host: dao-mall-for-pi.com
@@ -112,6 +116,7 @@ Content-Type: application/json
 ```
 
 Response
+
 ```
 HTTP/1.1 201 Created
 Content-Type: application/json
@@ -127,12 +132,14 @@ Content-Type: application/json
 
 GET /products/1
 Request
+
 ```
 GET /products/1 HTTP/1.1
 Host: dao-mall-for-pi.com
 ```
 
 Response
+
 ```
 HTTP/1.1 200 OK
 Content-Type: application/json
@@ -148,6 +155,7 @@ Content-Type: application/json
 
 PUT /products/1
 Request
+
 ```
 PUT /products/1 HTTP/1.1
 Host: dao-mall-for-pi.com
@@ -162,6 +170,7 @@ Content-Type: application/json
 ```
 
 Response
+
 ```
 HTTP/1.1 200 OK
 Content-Type: application/json
@@ -177,6 +186,7 @@ Content-Type: application/json
 
 DELETE /products/1
 Request
+
 ```
 DELETE /products/1 HTTP/1.1
 Host: dao-mall-for-pi.com
@@ -185,119 +195,142 @@ Host: dao-mall-for-pi.com
 Response
 ``
 HTTP/1.1 204 No Content
+
 ```
 
 GET /orders
 Request
 ```
+
 GET /orders HTTP/1.1
 Host: dao-mall-for-pi.com
+
 ```
 
 Response
 ```
+
 HTTP/1.1 200 OK
 Content-Type: application/json
 
 [
-  {
-    "id": 1,
-    "productId": 1,
-    "quantity": 1,
-    "status": "pending",
-    "createdAt": "2022-03-01T12:00:00Z"
-  },
-  {
-    "id": 2,
-    "productId": 2,
-    "quantity": 2,
-    "status": "completed",
-    "createdAt": "2022-03-02T12:00:00Z"
-  }
+{
+"id": 1,
+"productId": 1,
+"quantity": 1,
+"status": "pending",
+"createdAt": "2022-03-01T12:00:00Z"
+},
+{
+"id": 2,
+"productId": 2,
+"quantity": 2,
+"status": "completed",
+"createdAt": "2022-03-02T12:00:00Z"
+}
 ]
+
 ```
 
 POST /orders
 Request
 ```
+
 POST /orders HTTP/1.1
 Host: dao-mall-for-pi.com
 Content-Type: application/json
 
 {
-  "productId": 3,
-  "quantity": 1
+"productId": 3,
+"quantity": 1
 }
+
 ```
 
 Response
 ```
+
 HTTP/1.1 201 Created
 Content-Type: application/json
 
 {
-  "id": 3,
-  "productId": 3,
-  "quantity": 1,
-  "status": "pending",
-  "createdAt": "2022-03-03T12:00:00Z"
+"id": 3,
+"productId": 3,
+"quantity": 1,
+"status": "pending",
+"createdAt": "2022-03-03T12:00:00Z"
 }
+
 ```
 
 GET /orders/1
 Request
 ```
+
 GET /orders/1 HTTP/1.1
 Host: dao-mall-for-pi.com
+
 ```
 
 Response
 ```
+
 HTTP/1.1 200 OK
 Content-Type: application/json
 
 {
-  "$@$v=v1.16$@$id": 1,
-  "productId": 1,
-  "quantity": 1,
-  "status": "pending",
-  "createdAt": "2022-03-01T12:00:00Z"
+"$@$v=v1.16$@$id": 1,
+"productId": 1,
+"quantity": 1,
+"status": "pending",
+"createdAt": "2022-03-01T12:00:00Z"
 }
+
 ```
 
 PUT /orders/1
 ```
+
 PUT /orders/1 HTTP/1.1
 Host: dao-mall-for-pi.com
 Content-Type: application/json
 
 {
-  "status": "completed"
+"status": "completed"
 }
+
 ```
 
 Response
 ```
+
 HTTP/1.1 200 OK
 Content-Type: application/json
 
 {
-  "id": 1,
-  "productId": 1,
-  "quantity": 1,
-  "status": "completed",
-  "createdAt": "2022-03-01T12:00:00Z"
+"id": 1,
+"productId": 1,
+"quantity": 1,
+"status": "completed",
+"createdAt": "2022-03-01T12:00:00Z"
 }
+
 ```
 
 DELETE /orders/1
 Request
 ```
+
 DELETE /orders/1 HTTP/1.1
 Host: dao-mall-for-pi.com
+
 ```
 
 Response
 ```
+
 HTTP/1.1 204 No Content
+
+```
+
 ```
