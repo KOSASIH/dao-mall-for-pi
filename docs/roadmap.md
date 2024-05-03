@@ -15,6 +15,7 @@ This document provides a list of planned features and improvements for future re
 - Add support for decentralized finance (DeFi) integrations.
 
 ## v4.0.0- Add support for cross-chain interoperability.
+
 - Improve user experience with advanced AI-powered chatbots.
 - Add support for decentralized storage solutions.
 
