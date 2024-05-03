@@ -264,3 +264,40 @@ Content-Type: application/json
   "createdAt": "2022-03-01T12:00:00Z"
 }
 ```
+
+PUT /orders/1
+```
+PUT /orders/1 HTTP/1.1
+Host: dao-mall-for-pi.com
+Content-Type: application/json
+
+{
+  "status": "completed"
+}
+```
+
+Response
+```
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "id": 1,
+  "productId": 1,
+  "quantity": 1,
+  "status": "completed",
+  "createdAt": "2022-03-01T12:00:00Z"
+}
+```
+
+DELETE /orders/1
+Request
+```
+DELETE /orders/1 HTTP/1.1
+Host: dao-mall-for-pi.com
+```
+
+Response
+```
+HTTP/1.1 204 No Content
+```
