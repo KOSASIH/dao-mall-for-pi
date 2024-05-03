@@ -74,11 +74,13 @@ Cancels a specific order.
 GET /products HTTP/1.1
 Host: dao-mall-for-pi.com
 ```
+
 Response
+
 ```
 1. HTTP/1.1 200 OK
 2. Content-Type: application/json
-3. 
+3.
 4. [
 5.  {
 6.   "id": 1,
