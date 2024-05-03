@@ -2,33 +2,45 @@
 
 Welcome to the DAO Mall for Pi documentation!
 
-DAO Mall for Pi is a decentralized marketplace for buying, selling, and trading NFTs, powered by smart contracts on the Pi blockchain. With DAO Mall for Pi, users can create and manage their own decentralized autonomous organizations (DAOs), and use them to govern the marketplace and make decisions about its future development.
+DAO Mall for Pi is a decentralized marketplace for Pi, bringing the power of decentralized autonomous organizations (DAOs) to a local shopping experience. This project aims to demonstrate the integration of blockchain technology and smart contracts for creating a decentralized marketplace on the Pi network.
 
 ## Features
 
-- **Decentralized marketplace:** Buy, sell, and trade NFTs on a decentralized platform.
-- **Smart contracts:** All transactions are secured by smart contracts on the Pi blockchain.
-- **Decentralized governance:** Create and manage your own DAO to govern the marketplace.
-- **User-friendly interface:** A simple and intuitive user interface makes it easy to use the platform.
+- **Decentralized Shopping:** Users can browse and purchase products in a decentralized manner.
+- **DAO Governance:** Empowers users with decision-making through DAO governance for the marketplace.
+- **Smart Contracts:** Implements smart contracts to handle transactions securely.
 
 ## Getting Started
 
-To get started with DAO Mall for Pi, follow the instructions in the [Getting Started](getting-started.md) guide.
+Follow these steps to set up DAO Mall for Pi on your Pi node:
 
-## Documentation
+1. Clone the repository: `git clone https://github.com/KOSASIH/dao-mall-for-pi.git`
+2. Install dependencies: `npm install`
+3. Configure settings: Update the necessary configurations in `config.js`.
+4. Run the application: `npm start`
 
-For more information on how to use DAO Mall for Pi, check out the following documentation:
+## Dependencies
 
-- [API](api.md)
-- [Smart Contracts](contracts.md)
-- [Mobile Application](mobile.md)
-- [Security](security.md)
-- [Encryption](encryption.md)
-- [Machine Learning](machine-learning.md)
-- [Contributing](contributing.md)
-- [Changelog](changelog.md)
-- [Roadmap](roadmap.md)
+- Node.js
+- Truffle
+- Solidity
 
-## Questions or Feedback
+## Contribution Guidelines
 
-If you have any questions or feedback, please don't hesitate to reach out to us on [GitHub](https://github.com/KOSASIH/dao-mall-for-pi).
+We welcome contributions to improve DAO Mall for Pi. Please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`.
+3. Commit your changes: `git commit -m 'Add feature'`.
+4. Push to the branch: `git push origin feature/your-feature`.
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the PiOS License - see the [LICENSE](LICENSE.md) file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact us at [support@daomall.com](mailto:support@daomall.com).
+
+Happy decentralized shopping with DAO Mall for Pi!
