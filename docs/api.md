@@ -73,7 +73,7 @@ Cancels a specific order.
 ```bash
 GET /products HTTP/1.1
 Host: dao-mall-for-pi.com
-
+```
 Response
 ```
 1. HTTP/1.1 200 OK
