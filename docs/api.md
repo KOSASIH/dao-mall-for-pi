@@ -74,29 +74,4 @@ Cancels a specific order.
 GET /products HTTP/1.1
 Host: dao-mall-for-pi.com
 
-Response
-```
-
-1. HTTP/1.1 200 OK
-2. Content-Type: application/json
-3.
-4. [
-5. {
-6. "id": 1,
-7. "name": "Product 1",
-8. "description": "This is product 1.",
-9. "price": "1000000000",
-10. "image": "https://example.com/product1.jpg"
-11. },
-12. {
-13. "id": 2,
-14. "name": "Product 2",
-15. "description": "This is product 2.",
-16. "price": "2000000000",
-17. "image": "https://example.com/product2.jpg"
-18. }
-19. ]
-
-```
-
 ```
