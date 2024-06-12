@@ -1,0 +1,61 @@
+{
+  "name": "dao-mall-for-pi",
+  "version": "1.0.0",
+  "description": "Decentralized Autonomous Organization (DAO) Mall for Pi",
+  "author": "KOSASIH <kosasihg88@gmail.com>",
+  "contributors": [
+    "KOSASIH <kosasihg88@gmail.com>",
+    "DAO Mall Team"
+  ],
+  "keywords": [
+    "dao",
+    "mall",
+    "pi",
+    "decentralized",
+    "autonomous",
+    "organization"
+  ],
+  "homepage": "https://github.com/KOSASIH/dao-mall-for-pi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KOSASIH/dao-mall-for-pi.git"
+  },
+  "bugs": {
+    "email": "kosasih@gmail.com",
+    "url": "https://github.com/KOSASIH/dao-mall-for-pi/issues"
+  },
+  "engines": {
+    "node": ">=14.17.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "lint": "eslint.",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "redux": "^4.1.2",
+    "react-redux": "^7.2.6",
+    "web3": "^1.5.2",
+    "ethers.js": "^5.5.2",
+    "ERC-725": "^1.0.0",
+    "tensorflow": "^3.2.0",
+    "pytorch": "^1.10.2",
+    "apache-kafka": "^3.1.0",
+    "apache-flink": "^1.14.2",
+    "google-cloud-pubsub": "^2.3.0",
+    "hyperledger-fabric": "^2.3.2",
+    "corda": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.2",
+    "eslint": "^7.32.0",
+    "webpack": "^5.51.1",
+    "babel": "^7.16.0",
+    "typescript": "^4.3.5"
+  }
+}
