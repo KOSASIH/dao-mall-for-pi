@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAO Mall</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#nft-marketplace">NFT Marketplace</a></li>
+                <li><a href="#dao-governance">DAO Governance</a></li>
+                <li><a href="#staking">Staking</a></li>
+                <li><a href="#analytics">Analytics</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h1>Welcome to DAO Mall</h1>
+            <p>Explore the future of decentralized commerce</p>
+            <button onclick="connectWallet()">Connect Wallet</button>
+        </section>
+        <section id="nft-marketplace">
+            <h1>NFT Marketplace</h1>
+            <div id="nft-grid">
+                <!-- NFT cards will be rendered here -->
+            </div>
+            <button onclick="createNFT()">Create NFT</button>
+        </section>
+        <section id="dao-governance">
+            <h1>DAO Governance</h1>
+            <p>Participate in the decision-making process</p>
+            <button onclick="vote()">Vote</button>
+        </section>
+        <section id="staking">
+            <h1>Staking</h1>
+            <p>Stake your tokens to earn rewards</p>
+            <button onclick="stake()">Stake</button>
+        </section>
+        <section id="analytics">
+            <h1>Analytics</h1>
+            <p>Track the performance of the DAO</p>
+            <div id="analytics-chart">
+                <!-- Chart will be rendered here -->
+            </div>
+        </section>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.3.4/dist/web3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ethers.js@5.4.3/dist/ethers.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
