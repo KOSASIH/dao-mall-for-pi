@@ -19,6 +19,18 @@
 [![Codecademy](https://img.shields.io/badge/Codecademy-Certified-4B8BBE?style=for-the-badge)](https://www.codecademy.com/)
 [![Udacity](https://img.shields.io/badge/Udacity-Nanodegree-00BFFF?style=for-the-badge)](https://www.udacity.com/)
 [![IBM Certified](https://img.shields.io/badge/IBM%20Certified-Professional-FFB300?style=for-the-badge)](https://www.ibm.com/certify/)
+[![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-CKA-326CE5?style=for-the-badge)](https://www.cncf.io/certification/cka/)
+[![Certified Kubernetes Application Developer](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer-CKAD-326CE5?style=for-the-badge)](https://www.cncf.io/certification/ckad/)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-FF9900?style=for-the-badge)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud%20Professional%20Data%20Engineer-4285F4?style=for-the-badge)](https://cloud.google.com/certification/data-engineer)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Exam%20SY0-601-FF0000?style=for-the-badge)](https://www.comptia.org/certifications/security)
+[![Cisco Certified Network Associate](https://img.shields.io/badge/Cisco%20Certified%20Network%20Associate-CCNA-00A1F1?style=for-the-badge)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![Scrum Master Certified](https://img.shields.io/badge/Scrum%20Master%20Certified-SMC-FFB300?style=for-the-badge)](https://www.scrum.org/)
+[![PMP Certified](https://img.shields.io/badge/PMP%20Certified-Project%20Management%20Professional-0072B1?style=for-the-badge)](https://www.pmi.org/certifications/project-management-pmp)
+[![Oracle Certified Professional](https://img.shields.io/badge/Oracle%20Certified%20Professional-Java%20SE%2011-FFB300?style=for-the-badge)](https://education.oracle.com/java-certification)
+[![Salesforce Certified](https://img.shields.io/badge/Salesforce%20Certified-Administrator-00A1E0?style=for-the-badge)](https://trailhead.salesforce.com/credentials/administrator)
+[![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-5C5C5C?style=for-the-badge)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![Microsoft Azure Developer](https://img.shields.io/badge/Microsoft%20Azure%20Developer-Associate-0078D4?style=for-the-badge)](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/dao-mall-for-pi">PiNucleus Tech Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
