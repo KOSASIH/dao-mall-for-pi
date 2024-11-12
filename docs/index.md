@@ -10,6 +10,10 @@ DAO Mall for Pi is a decentralized marketplace for Pi, bringing the power of dec
 - **DAO Governance:** Empowers users with decision-making through DAO governance for the marketplace.
 - **Smart Contracts:** Implements smart contracts to handle transactions securely.
 
+## Architecture Diagram
+
+![DAO Mall For Pi Diagram](dao-mall-for-pi.jpeg) 
+
 ## Getting Started
 
 Follow these steps to set up DAO Mall for Pi on your Pi node:
