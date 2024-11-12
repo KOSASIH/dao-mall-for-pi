@@ -6,6 +6,19 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?style=for-the-badge)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-green.svg?style=for-the-badge)](https://nodejs.org/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge)](https://www.docker.com/)
+[![Stanford University](https://img.shields.io/badge/Stanford%20University-Partner-FF9800?style=for-the-badge)](https://www.stanford.edu/)
+[![Harvard University](https://img.shields.io/badge/Harvard%20University-Partner-A50000?style=for-the-badge)](https://www.harvard.edu/)
+[![MIT](https://img.shields.io/badge/MIT-Partner-8C1515?style=for-the-badge)](https://www.mit.edu/)
+[![Coursera](https://img.shields.io/badge/Coursera-Certified-2D73B8?style=for-the-badge)](https://www.coursera.org/)
+[![edX](https://img.shields.io/badge/edX-Certified-00BFFF?style=for-the-badge)](https://www.edx.org/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge)](https://cloud.google.com/certification/)
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Foundational-FF9900?style=for-the-badge)](https://aws.amazon.com/certification/)
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Professional-00A1F1?style=for-the-badge)](https://www.microsoft.com/en-us/learning/certification-overview.aspx)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Certified-00BFFF?style=for-the-badge)](https://www.datacamp.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitor-FFCC00?style=for-the-badge)](https://www.kaggle.com/)
+[![Codecademy](https://img.shields.io/badge/Codecademy-Certified-4B8BBE?style=for-the-badge)](https://www.codecademy.com/)
+[![Udacity](https://img.shields.io/badge/Udacity-Nanodegree-00BFFF?style=for-the-badge)](https://www.udacity.com/)
+[![IBM Certified](https://img.shields.io/badge/IBM%20Certified-Professional-FFB300?style=for-the-badge)](https://www.ibm.com/certify/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/dao-mall-for-pi">PiNucleus Tech Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
