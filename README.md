@@ -23,7 +23,6 @@
 [![Certified Kubernetes Application Developer](https://img.shields.io/badge/Certified%20Kubernetes%20Application%20Developer-CKAD-326CE5?style=for-the-badge)](https://www.cncf.io/certification/ckad/)
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-FF9900?style=for-the-badge)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud%20Professional%20Data%20Engineer-4285F4?style=for-the-badge)](https://cloud.google.com/certification/data-engineer)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Exam%20SY0-601-FF0000?style=for-the-badge)](https://www.comptia.org/certifications/security)
 [![Cisco Certified Network Associate](https://img.shields.io/badge/Cisco%20Certified%20Network%20Associate-CCNA-00A1F1?style=for-the-badge)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 [![Scrum Master Certified](https://img.shields.io/badge/Scrum%20Master%20Certified-SMC-FFB300?style=for-the-badge)](https://www.scrum.org/)
 [![PMP Certified](https://img.shields.io/badge/PMP%20Certified-Project%20Management%20Professional-0072B1?style=for-the-badge)](https://www.pmi.org/certifications/project-management-pmp)
