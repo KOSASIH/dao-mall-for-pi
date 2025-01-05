@@ -1,5 +1,3 @@
-# src/constants.py
-
 """
 Pi Coin Configuration Constants
 This module contains constants related to the Pi Coin cryptocurrency.
@@ -62,5 +60,19 @@ PI_COIN_API_KEY_EXPIRATION = 3600  # API key expiration time in seconds
 # Pi Coin Regulatory Compliance
 PI_COIN_KYC_REQUIRED = True  # Whether KYC is required for transactions
 PI_COIN_COMPLIANCE_JURISDICTIONS = ["US", "EU", "UK"]  # Jurisdictions for compliance
+
+# Enhanced Security Features
+PI_COIN_TWO_FACTOR_AUTH = True  # Enable two-factor authentication for transactions
+PI_COIN_MAX_FAILED_LOGIN_ATTEMPTS = 5  # Maximum failed login attempts before lockout
+PI_COIN_LOCKOUT_DURATION = 300  # Lockout duration in seconds after failed attempts
+
+# Advanced Network Features
+PI_COIN_DHT_ENABLED = True  # Enable Distributed Hash Table for peer discovery
+PI_COIN_MAX_BLOCK_SIZE = 2_000_000  # Maximum block size in bytes
+PI_COIN_FORK_THRESHOLD = 0.1  # Threshold for considering a fork
+
+# Dynamic Transaction Fees
+PI_COIN_DYNAMIC_FEE_ENABLED = True  # Enable dynamic transaction fees based on network load
+PI_COIN_MIN_DYNAMIC_FEE = 0.001  # Minimum dynamic fee in USD
 
 # Additional constants can be added here as needed
